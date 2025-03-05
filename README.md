@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amirhossein Moloki</h1>
 <h3 align="center">A passionate junior backend developer from Iran</h3>
 
-- 🌱 I’m currently learning **JavaScript, Next.js, and WebSockets**  
+- 🌱 I’m currently learning **JavaScript, Next.js, **  
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/amirhossein-moloki)  
 - 📫 How to reach me: **amirh.moloki@gmail.com**  
 
